@@ -1,0 +1,1232 @@
+return_id,order_item_id,return_date,reason
+1,2111,2025-06-13,Not as Described
+2,5508,2025-09-09,Wrong Size
+3,31466,2026-05-12,Late Delivery
+4,35633,2025-07-14,Defective Item
+5,33806,2025-11-23,Late Delivery
+6,29350,2026-09-25,Late Delivery
+7,32999,2025-12-17,Wrong Size
+8,32304,2026-10-16,Late Delivery
+9,12473,2026-01-12,Not as Described
+10,25416,2026-01-31,Defective Item
+11,5526,2026-01-02,Late Delivery
+12,14503,2025-11-22,Defective Item
+13,6446,2025-03-16,Defective Item
+14,14795,2025-05-25,Not as Described
+15,17827,2025-05-26,Buyer Remorse
+16,21817,2026-06-11,Buyer Remorse
+17,28905,2025-06-20,Wrong Size
+18,33936,2025-08-28,Buyer Remorse
+19,5324,2026-10-05,Defective Item
+20,32101,2025-05-06,Late Delivery
+21,15964,2025-01-01,Late Delivery
+22,6225,2025-02-17,Defective Item
+23,25462,2026-05-18,Late Delivery
+24,13510,2025-12-15,Buyer Remorse
+25,24045,2026-04-14,Late Delivery
+26,23245,2025-06-04,Wrong Size
+27,3910,2026-07-10,Defective Item
+28,30085,2025-02-15,Defective Item
+29,24290,2026-04-16,Buyer Remorse
+30,4132,2026-10-21,Defective Item
+31,23128,2024-12-02,Not as Described
+32,15590,2026-01-22,Not as Described
+33,15911,2025-03-13,Defective Item
+34,6032,2025-10-21,Defective Item
+35,14549,2025-06-24,Buyer Remorse
+36,11458,2026-01-28,Defective Item
+37,4420,2025-05-08,Not as Described
+38,32915,2026-04-15,Not as Described
+39,33126,2026-01-13,Wrong Size
+40,5261,2026-08-03,Late Delivery
+41,28152,2024-12-03,Defective Item
+42,7913,2026-01-30,Wrong Size
+43,12035,2025-12-04,Defective Item
+44,9468,2025-01-09,Wrong Size
+45,17846,2026-04-15,Buyer Remorse
+46,31561,2024-12-31,Wrong Size
+47,848,2025-02-18,Not as Described
+48,13177,2025-02-14,Wrong Size
+49,6998,2024-11-28,Not as Described
+50,791,2025-03-20,Buyer Remorse
+51,1557,2026-06-06,Late Delivery
+52,4762,2024-12-26,Defective Item
+53,35780,2025-07-22,Buyer Remorse
+54,28030,2026-03-23,Defective Item
+55,16208,2025-01-12,Late Delivery
+56,2558,2025-02-14,Not as Described
+57,9591,2026-03-15,Buyer Remorse
+58,31892,2026-04-14,Not as Described
+59,32913,2025-11-28,Buyer Remorse
+60,35858,2025-07-31,Buyer Remorse
+61,16325,2024-12-29,Wrong Size
+62,32335,2025-04-11,Defective Item
+63,4326,2025-08-23,Not as Described
+64,10125,2025-11-29,Late Delivery
+65,7877,2025-06-03,Not as Described
+66,35059,2024-11-23,Late Delivery
+67,18187,2025-07-09,Defective Item
+68,9836,2025-06-12,Not as Described
+69,14782,2026-08-13,Buyer Remorse
+70,17698,2025-01-22,Defective Item
+71,8092,2026-05-08,Buyer Remorse
+72,27492,2025-08-27,Not as Described
+73,6804,2026-04-02,Buyer Remorse
+74,24052,2025-07-14,Defective Item
+75,5844,2025-03-07,Late Delivery
+76,29787,2025-04-26,Not as Described
+77,11363,2025-11-13,Defective Item
+78,23648,2024-11-05,Defective Item
+79,29392,2024-10-30,Not as Described
+80,35608,2026-06-17,Buyer Remorse
+81,31511,2025-12-21,Defective Item
+82,12451,2026-08-28,Not as Described
+83,34734,2026-10-03,Buyer Remorse
+84,17777,2025-10-16,Wrong Size
+85,27090,2025-11-20,Wrong Size
+86,983,2025-11-03,Defective Item
+87,8647,2025-08-14,Wrong Size
+88,30733,2024-12-29,Wrong Size
+89,10371,2026-02-19,Late Delivery
+90,32741,2024-12-10,Late Delivery
+91,35872,2026-06-05,Not as Described
+92,31650,2024-12-04,Late Delivery
+93,16459,2025-04-07,Wrong Size
+94,25592,2025-03-15,Late Delivery
+95,33868,2025-03-02,Wrong Size
+96,3050,2026-05-16,Late Delivery
+97,640,2025-09-29,Buyer Remorse
+98,20060,2024-11-19,Defective Item
+99,11789,2025-11-03,Buyer Remorse
+100,22505,2025-05-05,Defective Item
+101,35544,2025-06-09,Late Delivery
+102,12106,2026-06-12,Wrong Size
+103,19387,2026-09-07,Not as Described
+104,1350,2025-10-25,Defective Item
+105,18012,2025-11-29,Defective Item
+106,15468,2026-06-02,Wrong Size
+107,14192,2025-06-09,Wrong Size
+108,19733,2025-05-04,Not as Described
+109,1821,2025-03-03,Defective Item
+110,14992,2025-09-26,Wrong Size
+111,22123,2025-10-28,Wrong Size
+112,18191,2025-05-17,Wrong Size
+113,19086,2026-09-14,Late Delivery
+114,14042,2025-12-17,Defective Item
+115,18424,2025-06-27,Late Delivery
+116,28246,2025-09-22,Late Delivery
+117,4655,2025-05-29,Defective Item
+118,14450,2026-03-07,Buyer Remorse
+119,32739,2025-04-18,Wrong Size
+120,4699,2024-12-29,Late Delivery
+121,20682,2026-06-25,Wrong Size
+122,11231,2024-12-17,Not as Described
+123,9456,2026-07-26,Late Delivery
+124,13295,2026-07-17,Defective Item
+125,28912,2025-04-10,Defective Item
+126,7629,2025-02-15,Not as Described
+127,570,2025-04-17,Late Delivery
+128,6997,2025-04-28,Not as Described
+129,11547,2025-12-27,Not as Described
+130,4145,2026-10-23,Wrong Size
+131,18052,2026-03-29,Wrong Size
+132,23346,2026-07-19,Late Delivery
+133,8094,2025-07-31,Buyer Remorse
+134,33733,2026-07-21,Late Delivery
+135,4643,2025-05-18,Not as Described
+136,12330,2025-05-06,Wrong Size
+137,13308,2025-10-11,Not as Described
+138,5824,2026-05-08,Defective Item
+139,26896,2025-10-02,Not as Described
+140,4428,2026-09-20,Defective Item
+141,22573,2025-11-07,Buyer Remorse
+142,15628,2025-05-01,Wrong Size
+143,25136,2024-12-11,Late Delivery
+144,35279,2026-06-02,Late Delivery
+145,16140,2025-08-02,Wrong Size
+146,1219,2025-12-29,Buyer Remorse
+147,36304,2025-07-23,Wrong Size
+148,33625,2025-12-21,Defective Item
+149,20737,2025-03-14,Wrong Size
+150,13178,2024-12-28,Defective Item
+151,34134,2026-02-24,Not as Described
+152,8260,2025-09-23,Late Delivery
+153,18353,2026-09-17,Defective Item
+154,35658,2026-05-30,Buyer Remorse
+155,3684,2025-06-02,Defective Item
+156,33140,2026-06-13,Buyer Remorse
+157,19954,2025-07-22,Not as Described
+158,1908,2026-02-09,Defective Item
+159,20100,2026-02-17,Not as Described
+160,14903,2025-09-20,Defective Item
+161,25341,2025-12-27,Defective Item
+162,34405,2025-02-22,Late Delivery
+163,20008,2025-02-14,Wrong Size
+164,28089,2025-05-28,Late Delivery
+165,10839,2025-04-08,Late Delivery
+166,10896,2025-01-10,Not as Described
+167,4802,2026-10-08,Late Delivery
+168,26252,2025-02-12,Defective Item
+169,4500,2026-04-11,Wrong Size
+170,35382,2026-03-30,Buyer Remorse
+171,31655,2026-09-12,Buyer Remorse
+172,36141,2024-12-31,Not as Described
+173,14938,2025-02-22,Late Delivery
+174,31882,2025-08-02,Not as Described
+175,16999,2025-08-10,Defective Item
+176,10287,2025-11-23,Wrong Size
+177,18894,2025-11-23,Buyer Remorse
+178,6539,2026-02-18,Not as Described
+179,5163,2025-12-07,Defective Item
+180,35225,2025-03-30,Buyer Remorse
+181,27918,2026-05-24,Not as Described
+182,6050,2026-02-21,Wrong Size
+183,5822,2025-03-09,Defective Item
+184,28564,2026-04-18,Buyer Remorse
+185,34468,2025-04-08,Buyer Remorse
+186,2242,2024-11-15,Defective Item
+187,8606,2025-11-04,Defective Item
+188,28182,2025-12-26,Buyer Remorse
+189,6770,2025-01-30,Late Delivery
+190,31255,2025-05-25,Not as Described
+191,9243,2025-01-24,Buyer Remorse
+192,26397,2025-02-06,Not as Described
+193,18568,2026-10-17,Late Delivery
+194,6577,2026-06-24,Defective Item
+195,10820,2026-06-18,Not as Described
+196,30600,2025-07-13,Late Delivery
+197,20168,2025-10-28,Defective Item
+198,3668,2024-11-15,Not as Described
+199,6159,2026-03-28,Buyer Remorse
+200,15554,2025-09-15,Wrong Size
+201,5602,2025-10-14,Not as Described
+202,924,2026-10-01,Late Delivery
+203,3989,2024-12-14,Buyer Remorse
+204,22814,2025-10-20,Late Delivery
+205,4600,2025-11-20,Late Delivery
+206,33671,2026-08-06,Not as Described
+207,23328,2026-02-23,Buyer Remorse
+208,30830,2026-04-29,Wrong Size
+209,3834,2026-04-07,Defective Item
+210,26210,2026-05-20,Not as Described
+211,1677,2026-05-11,Defective Item
+212,2696,2026-03-20,Late Delivery
+213,11339,2026-07-26,Not as Described
+214,23091,2026-03-16,Wrong Size
+215,31430,2025-03-23,Late Delivery
+216,33491,2026-08-14,Buyer Remorse
+217,3751,2026-08-14,Wrong Size
+218,27824,2025-06-20,Defective Item
+219,25818,2025-05-15,Defective Item
+220,16178,2026-09-27,Not as Described
+221,33129,2026-05-06,Buyer Remorse
+222,18981,2026-07-27,Wrong Size
+223,23518,2025-07-23,Not as Described
+224,4740,2025-06-20,Not as Described
+225,34355,2026-05-24,Defective Item
+226,21680,2026-08-02,Late Delivery
+227,7378,2025-10-29,Buyer Remorse
+228,5946,2025-07-10,Defective Item
+229,7045,2026-03-22,Buyer Remorse
+230,11977,2026-02-09,Defective Item
+231,11252,2025-10-05,Buyer Remorse
+232,33595,2024-12-22,Late Delivery
+233,21582,2025-01-18,Wrong Size
+234,8174,2025-04-27,Wrong Size
+235,33653,2026-08-13,Late Delivery
+236,23257,2025-01-23,Buyer Remorse
+237,14400,2025-08-16,Wrong Size
+238,29217,2026-07-19,Not as Described
+239,27772,2026-06-08,Not as Described
+240,29655,2026-04-21,Buyer Remorse
+241,27447,2025-09-17,Defective Item
+242,7505,2026-07-13,Defective Item
+243,31740,2025-12-12,Buyer Remorse
+244,19649,2026-08-08,Buyer Remorse
+245,6509,2025-11-11,Buyer Remorse
+246,18592,2025-04-11,Not as Described
+247,21896,2025-01-28,Not as Described
+248,19178,2026-04-06,Defective Item
+249,27963,2024-12-01,Buyer Remorse
+250,11928,2025-02-08,Buyer Remorse
+251,35576,2025-06-18,Late Delivery
+252,16509,2025-03-01,Wrong Size
+253,34050,2025-08-26,Late Delivery
+254,36145,2026-07-16,Defective Item
+255,5159,2025-06-16,Defective Item
+256,26442,2025-07-03,Late Delivery
+257,21513,2026-02-09,Buyer Remorse
+258,5832,2026-05-16,Buyer Remorse
+259,12862,2026-07-15,Buyer Remorse
+260,34675,2025-09-28,Wrong Size
+261,8862,2026-09-18,Not as Described
+262,14754,2025-04-27,Late Delivery
+263,16959,2026-01-17,Buyer Remorse
+264,680,2025-06-04,Late Delivery
+265,35879,2025-09-26,Defective Item
+266,20819,2025-12-14,Not as Described
+267,21356,2025-06-09,Not as Described
+268,27262,2025-08-14,Buyer Remorse
+269,19956,2025-12-02,Late Delivery
+270,15282,2025-04-14,Wrong Size
+271,28729,2026-05-03,Defective Item
+272,9968,2025-01-15,Not as Described
+273,6991,2026-07-19,Not as Described
+274,25075,2024-11-08,Wrong Size
+275,6894,2026-07-13,Buyer Remorse
+276,28601,2026-01-17,Wrong Size
+277,27137,2024-11-10,Wrong Size
+278,8205,2025-03-28,Buyer Remorse
+279,18538,2026-08-26,Wrong Size
+280,9282,2025-07-25,Buyer Remorse
+281,22703,2026-01-03,Buyer Remorse
+282,2499,2026-04-10,Late Delivery
+283,19042,2025-07-24,Late Delivery
+284,26904,2025-11-25,Defective Item
+285,6912,2026-05-06,Late Delivery
+286,27375,2025-11-03,Defective Item
+287,29127,2025-02-12,Late Delivery
+288,33045,2025-08-19,Buyer Remorse
+289,7790,2025-03-26,Defective Item
+290,7435,2026-04-12,Defective Item
+291,20396,2025-03-24,Buyer Remorse
+292,19148,2026-04-22,Late Delivery
+293,893,2026-07-15,Not as Described
+294,30717,2025-11-01,Late Delivery
+295,10100,2025-07-28,Wrong Size
+296,22626,2024-11-25,Not as Described
+297,22465,2026-08-12,Late Delivery
+298,1338,2025-03-24,Late Delivery
+299,1429,2025-11-15,Not as Described
+300,31984,2026-03-06,Late Delivery
+301,28423,2024-12-24,Late Delivery
+302,14553,2026-02-12,Late Delivery
+303,18662,2025-02-27,Wrong Size
+304,16889,2025-08-28,Buyer Remorse
+305,31013,2025-06-24,Wrong Size
+306,19886,2025-03-22,Late Delivery
+307,185,2025-01-23,Late Delivery
+308,22293,2026-06-01,Defective Item
+309,10304,2024-11-04,Wrong Size
+310,24372,2025-03-13,Not as Described
+311,13587,2025-04-30,Not as Described
+312,17107,2025-12-31,Late Delivery
+313,28340,2026-06-28,Late Delivery
+314,30933,2025-10-05,Late Delivery
+315,22921,2026-07-24,Wrong Size
+316,24420,2025-03-05,Defective Item
+317,15745,2026-10-21,Late Delivery
+318,28023,2026-08-24,Not as Described
+319,35189,2025-12-05,Wrong Size
+320,29611,2026-08-14,Not as Described
+321,18801,2025-12-29,Not as Described
+322,23389,2024-11-23,Not as Described
+323,35032,2025-11-13,Buyer Remorse
+324,11561,2025-05-11,Wrong Size
+325,3973,2025-10-02,Not as Described
+326,27934,2025-09-16,Buyer Remorse
+327,18623,2026-10-25,Defective Item
+328,7955,2026-05-25,Wrong Size
+329,5581,2026-09-21,Wrong Size
+330,20400,2026-06-25,Buyer Remorse
+331,21989,2026-05-07,Late Delivery
+332,19463,2026-03-09,Not as Described
+333,7511,2025-06-25,Wrong Size
+334,16934,2026-01-15,Not as Described
+335,330,2025-11-17,Buyer Remorse
+336,14378,2024-12-01,Wrong Size
+337,20918,2025-08-20,Not as Described
+338,34639,2026-03-17,Defective Item
+339,16811,2026-02-27,Not as Described
+340,10889,2026-08-01,Defective Item
+341,16794,2025-06-30,Wrong Size
+342,18882,2026-01-22,Defective Item
+343,18703,2026-05-04,Not as Described
+344,17139,2026-02-23,Wrong Size
+345,17483,2024-11-01,Not as Described
+346,16392,2026-05-18,Late Delivery
+347,32118,2026-05-23,Late Delivery
+348,2608,2026-04-13,Not as Described
+349,24119,2026-03-03,Not as Described
+350,5000,2025-01-28,Wrong Size
+351,13393,2026-01-10,Defective Item
+352,33807,2026-07-30,Buyer Remorse
+353,8620,2025-09-09,Wrong Size
+354,5310,2026-03-28,Not as Described
+355,21763,2026-03-03,Late Delivery
+356,4350,2026-07-26,Buyer Remorse
+357,22536,2025-05-25,Not as Described
+358,33839,2025-04-19,Defective Item
+359,1172,2026-05-31,Not as Described
+360,15549,2026-03-28,Not as Described
+361,18194,2026-05-05,Not as Described
+362,9727,2025-05-04,Not as Described
+363,1719,2025-07-25,Defective Item
+364,35735,2025-09-16,Not as Described
+365,17275,2025-02-18,Buyer Remorse
+366,4439,2025-03-25,Late Delivery
+367,5736,2026-01-24,Late Delivery
+368,9045,2025-07-15,Wrong Size
+369,28688,2026-07-04,Defective Item
+370,23713,2024-11-19,Buyer Remorse
+371,1636,2025-03-12,Defective Item
+372,6160,2024-12-25,Late Delivery
+373,7823,2026-09-21,Not as Described
+374,15106,2024-12-29,Not as Described
+375,31003,2026-08-30,Late Delivery
+376,6025,2025-01-31,Late Delivery
+377,12916,2026-09-15,Buyer Remorse
+378,21852,2026-10-25,Late Delivery
+379,5735,2025-11-29,Not as Described
+380,8932,2025-10-31,Buyer Remorse
+381,13103,2024-11-03,Late Delivery
+382,17908,2026-04-16,Late Delivery
+383,1837,2024-12-03,Wrong Size
+384,20636,2024-11-02,Buyer Remorse
+385,25835,2024-11-30,Buyer Remorse
+386,5376,2025-12-21,Not as Described
+387,24395,2026-09-07,Wrong Size
+388,31972,2025-02-15,Buyer Remorse
+389,7363,2025-03-17,Late Delivery
+390,32031,2025-02-06,Wrong Size
+391,15655,2024-12-11,Not as Described
+392,27284,2025-08-04,Defective Item
+393,8526,2025-05-01,Buyer Remorse
+394,23853,2025-02-08,Late Delivery
+395,8223,2026-06-04,Defective Item
+396,5037,2025-03-08,Late Delivery
+397,1692,2024-12-02,Defective Item
+398,19202,2025-12-24,Defective Item
+399,8057,2026-01-28,Wrong Size
+400,24307,2025-04-30,Wrong Size
+401,21071,2026-01-20,Buyer Remorse
+402,13921,2026-05-11,Not as Described
+403,26126,2025-08-05,Buyer Remorse
+404,15547,2025-08-23,Wrong Size
+405,21697,2026-06-17,Late Delivery
+406,7965,2024-12-07,Buyer Remorse
+407,19104,2025-12-14,Wrong Size
+408,3343,2026-01-16,Buyer Remorse
+409,6753,2025-12-14,Not as Described
+410,20708,2024-11-22,Late Delivery
+411,32458,2025-06-13,Buyer Remorse
+412,18682,2025-09-24,Wrong Size
+413,22311,2025-08-23,Not as Described
+414,17740,2024-12-24,Defective Item
+415,10253,2026-08-20,Late Delivery
+416,35971,2025-10-12,Late Delivery
+417,2916,2025-01-28,Late Delivery
+418,28589,2026-08-10,Buyer Remorse
+419,14069,2026-08-20,Late Delivery
+420,29456,2024-11-11,Wrong Size
+421,14131,2026-09-01,Late Delivery
+422,34177,2025-01-09,Late Delivery
+423,23003,2025-06-09,Defective Item
+424,2458,2025-10-30,Defective Item
+425,34982,2026-08-31,Late Delivery
+426,11146,2025-12-20,Not as Described
+427,4114,2025-03-19,Wrong Size
+428,25932,2025-05-22,Not as Described
+429,17493,2026-07-20,Defective Item
+430,29818,2025-10-26,Not as Described
+431,13229,2026-08-01,Defective Item
+432,33504,2025-07-30,Late Delivery
+433,35176,2026-09-26,Wrong Size
+434,3790,2026-01-12,Defective Item
+435,30587,2026-02-18,Wrong Size
+436,35588,2026-05-13,Buyer Remorse
+437,17118,2025-01-15,Not as Described
+438,2759,2026-06-19,Late Delivery
+439,14838,2025-02-01,Defective Item
+440,11069,2026-10-02,Late Delivery
+441,20560,2025-11-12,Late Delivery
+442,8299,2025-03-27,Buyer Remorse
+443,24366,2026-01-13,Buyer Remorse
+444,17329,2024-12-03,Buyer Remorse
+445,17764,2026-07-06,Wrong Size
+446,559,2025-08-30,Wrong Size
+447,4529,2025-09-20,Late Delivery
+448,30644,2025-07-08,Defective Item
+449,3228,2024-12-14,Late Delivery
+450,56,2026-05-24,Late Delivery
+451,16188,2025-09-07,Buyer Remorse
+452,6778,2025-12-03,Late Delivery
+453,18267,2025-12-16,Late Delivery
+454,13958,2026-03-03,Buyer Remorse
+455,1370,2026-05-18,Defective Item
+456,18051,2025-11-24,Late Delivery
+457,34782,2025-08-09,Wrong Size
+458,20138,2025-10-23,Defective Item
+459,27968,2026-05-09,Wrong Size
+460,10445,2025-09-28,Defective Item
+461,19258,2026-06-26,Buyer Remorse
+462,8716,2024-11-29,Wrong Size
+463,17599,2025-03-20,Buyer Remorse
+464,4044,2025-10-26,Buyer Remorse
+465,1779,2026-10-14,Late Delivery
+466,12830,2025-03-31,Late Delivery
+467,5516,2025-02-01,Not as Described
+468,20720,2025-09-24,Not as Described
+469,10656,2024-11-14,Defective Item
+470,14216,2025-05-03,Buyer Remorse
+471,26968,2026-08-05,Buyer Remorse
+472,8342,2025-07-27,Late Delivery
+473,2985,2024-12-10,Not as Described
+474,15893,2025-02-26,Not as Described
+475,35605,2026-04-17,Wrong Size
+476,35694,2025-06-24,Late Delivery
+477,6625,2026-09-28,Buyer Remorse
+478,34270,2026-09-06,Not as Described
+479,20454,2025-07-21,Wrong Size
+480,21224,2024-11-11,Late Delivery
+481,22619,2025-08-31,Not as Described
+482,4063,2026-07-30,Buyer Remorse
+483,17639,2025-04-02,Defective Item
+484,20219,2025-02-05,Not as Described
+485,9275,2026-05-29,Wrong Size
+486,12124,2025-10-24,Late Delivery
+487,21851,2026-07-01,Buyer Remorse
+488,21862,2026-08-09,Buyer Remorse
+489,352,2024-12-16,Defective Item
+490,5966,2026-10-24,Late Delivery
+491,18268,2026-04-19,Buyer Remorse
+492,16922,2026-04-22,Not as Described
+493,34364,2026-04-05,Not as Described
+494,15155,2025-07-28,Buyer Remorse
+495,3423,2025-02-26,Defective Item
+496,10835,2026-08-16,Wrong Size
+497,26674,2026-10-04,Late Delivery
+498,7497,2025-05-31,Buyer Remorse
+499,10315,2026-10-10,Wrong Size
+500,3793,2025-01-06,Wrong Size
+501,34466,2026-03-27,Defective Item
+502,20732,2025-09-27,Defective Item
+503,24908,2026-02-14,Buyer Remorse
+504,33875,2026-07-23,Defective Item
+505,24524,2025-05-17,Late Delivery
+506,17215,2026-06-26,Not as Described
+507,25992,2026-06-17,Late Delivery
+508,23995,2026-03-07,Not as Described
+509,15113,2026-05-30,Buyer Remorse
+510,17378,2025-06-30,Late Delivery
+511,28678,2025-09-29,Wrong Size
+512,22569,2026-09-26,Wrong Size
+513,11482,2025-06-19,Buyer Remorse
+514,10748,2025-08-22,Not as Described
+515,724,2025-12-20,Buyer Remorse
+516,31324,2025-09-17,Defective Item
+517,4479,2025-08-20,Late Delivery
+518,26277,2025-10-27,Defective Item
+519,12327,2025-09-03,Wrong Size
+520,23293,2026-06-22,Late Delivery
+521,20478,2026-03-07,Not as Described
+522,30688,2026-10-24,Not as Described
+523,25360,2026-03-26,Defective Item
+524,31557,2026-05-21,Late Delivery
+525,1129,2026-05-05,Wrong Size
+526,31160,2025-05-15,Defective Item
+527,2556,2025-09-14,Late Delivery
+528,24668,2026-02-18,Defective Item
+529,3356,2026-08-26,Buyer Remorse
+530,15840,2026-10-28,Late Delivery
+531,13342,2025-01-31,Defective Item
+532,34564,2025-06-02,Defective Item
+533,35103,2025-03-07,Wrong Size
+534,15734,2026-05-07,Late Delivery
+535,18925,2025-11-26,Wrong Size
+536,9931,2025-06-23,Wrong Size
+537,23130,2024-11-05,Buyer Remorse
+538,18966,2024-11-12,Not as Described
+539,8405,2024-11-02,Not as Described
+540,17228,2026-10-25,Not as Described
+541,30757,2026-10-02,Wrong Size
+542,15123,2026-08-09,Not as Described
+543,21364,2024-11-09,Defective Item
+544,14242,2026-08-11,Late Delivery
+545,32130,2026-04-24,Defective Item
+546,17185,2025-01-23,Late Delivery
+547,13942,2025-04-12,Late Delivery
+548,10635,2026-06-12,Buyer Remorse
+549,18295,2026-10-30,Not as Described
+550,29624,2025-10-09,Late Delivery
+551,8852,2025-05-22,Not as Described
+552,25029,2025-03-27,Wrong Size
+553,12557,2025-10-12,Late Delivery
+554,19417,2025-11-30,Defective Item
+555,28904,2025-05-28,Defective Item
+556,10653,2025-11-13,Wrong Size
+557,26703,2026-05-21,Wrong Size
+558,7302,2025-01-13,Defective Item
+559,11011,2024-11-12,Defective Item
+560,16170,2026-06-10,Defective Item
+561,1740,2025-11-02,Buyer Remorse
+562,11417,2025-05-04,Buyer Remorse
+563,23374,2025-11-28,Buyer Remorse
+564,4995,2026-07-22,Buyer Remorse
+565,11593,2025-03-17,Wrong Size
+566,7832,2025-03-26,Defective Item
+567,10728,2025-03-19,Wrong Size
+568,20169,2025-02-21,Buyer Remorse
+569,5146,2025-07-09,Not as Described
+570,27532,2026-08-18,Wrong Size
+571,12566,2026-05-14,Wrong Size
+572,28726,2026-03-28,Wrong Size
+573,12869,2026-04-15,Wrong Size
+574,35642,2025-12-25,Buyer Remorse
+575,21445,2026-04-18,Buyer Remorse
+576,24902,2025-04-21,Not as Described
+577,17796,2025-04-21,Late Delivery
+578,27623,2025-11-07,Buyer Remorse
+579,2451,2025-09-27,Wrong Size
+580,5894,2026-06-28,Defective Item
+581,23631,2026-06-20,Not as Described
+582,34347,2026-10-01,Wrong Size
+583,13708,2025-03-06,Late Delivery
+584,17310,2026-03-12,Defective Item
+585,12038,2026-05-20,Buyer Remorse
+586,18852,2025-02-16,Wrong Size
+587,36192,2026-09-06,Defective Item
+588,11469,2025-04-10,Buyer Remorse
+589,33551,2026-05-12,Not as Described
+590,10824,2025-04-30,Buyer Remorse
+591,6805,2025-05-26,Not as Described
+592,504,2025-07-12,Wrong Size
+593,25522,2024-12-03,Wrong Size
+594,17522,2025-01-27,Late Delivery
+595,34012,2025-07-22,Late Delivery
+596,27759,2025-06-01,Not as Described
+597,33055,2025-01-30,Buyer Remorse
+598,4105,2025-10-30,Buyer Remorse
+599,24938,2025-11-17,Wrong Size
+600,12669,2025-09-09,Buyer Remorse
+601,28576,2025-08-12,Defective Item
+602,30111,2025-10-23,Wrong Size
+603,4001,2025-12-22,Wrong Size
+604,10848,2025-09-22,Buyer Remorse
+605,1413,2026-07-24,Not as Described
+606,32629,2025-10-04,Buyer Remorse
+607,11300,2024-12-29,Wrong Size
+608,21463,2024-12-01,Defective Item
+609,30952,2026-04-25,Late Delivery
+610,10757,2026-03-20,Late Delivery
+611,28805,2024-12-08,Wrong Size
+612,29185,2024-11-26,Late Delivery
+613,14420,2024-11-13,Buyer Remorse
+614,3369,2026-09-19,Defective Item
+615,30816,2025-07-30,Buyer Remorse
+616,2709,2026-02-06,Not as Described
+617,6521,2025-01-05,Buyer Remorse
+618,22205,2026-08-23,Wrong Size
+619,6868,2025-02-02,Wrong Size
+620,21933,2025-12-15,Defective Item
+621,11054,2026-09-26,Not as Described
+622,26162,2025-08-22,Late Delivery
+623,7232,2025-03-05,Wrong Size
+624,21450,2026-03-14,Late Delivery
+625,22044,2026-05-21,Late Delivery
+626,33358,2025-05-26,Wrong Size
+627,16468,2025-11-22,Wrong Size
+628,1654,2026-02-14,Defective Item
+629,7017,2026-06-06,Defective Item
+630,29932,2025-05-03,Late Delivery
+631,28517,2026-02-26,Late Delivery
+632,29231,2025-04-15,Not as Described
+633,31752,2026-02-27,Defective Item
+634,3986,2025-04-08,Defective Item
+635,30007,2025-06-21,Buyer Remorse
+636,21025,2025-11-28,Not as Described
+637,28640,2026-03-30,Late Delivery
+638,33144,2026-01-21,Defective Item
+639,3012,2025-01-04,Buyer Remorse
+640,198,2025-06-08,Defective Item
+641,8527,2024-12-12,Buyer Remorse
+642,9862,2025-02-06,Wrong Size
+643,25119,2025-09-01,Buyer Remorse
+644,11264,2026-01-30,Not as Described
+645,29030,2026-03-12,Defective Item
+646,3862,2026-04-07,Not as Described
+647,11971,2025-08-28,Defective Item
+648,34939,2026-10-13,Not as Described
+649,5685,2026-09-25,Defective Item
+650,21367,2025-04-22,Defective Item
+651,33406,2025-01-04,Not as Described
+652,31246,2025-07-05,Buyer Remorse
+653,21986,2026-04-26,Defective Item
+654,33359,2025-07-27,Wrong Size
+655,10705,2026-03-05,Defective Item
+656,14516,2025-07-29,Late Delivery
+657,18235,2026-04-08,Not as Described
+658,24238,2025-12-12,Late Delivery
+659,2414,2024-12-06,Late Delivery
+660,8851,2026-03-17,Wrong Size
+661,12414,2024-11-13,Late Delivery
+662,23572,2025-11-24,Defective Item
+663,34141,2025-11-07,Not as Described
+664,14568,2025-08-13,Wrong Size
+665,25934,2025-11-21,Not as Described
+666,16233,2026-06-21,Buyer Remorse
+667,19690,2025-07-19,Not as Described
+668,11748,2025-10-23,Not as Described
+669,17890,2025-07-12,Buyer Remorse
+670,33582,2025-01-14,Defective Item
+671,19518,2026-04-18,Defective Item
+672,12824,2025-04-12,Buyer Remorse
+673,26072,2025-01-23,Wrong Size
+674,7126,2025-11-29,Late Delivery
+675,7796,2026-10-21,Not as Described
+676,32937,2026-06-14,Wrong Size
+677,29580,2025-04-21,Wrong Size
+678,27286,2026-05-24,Buyer Remorse
+679,36119,2026-05-15,Late Delivery
+680,16745,2026-01-01,Wrong Size
+681,9900,2025-02-12,Wrong Size
+682,31377,2026-10-28,Buyer Remorse
+683,10532,2025-03-28,Not as Described
+684,16561,2025-11-15,Wrong Size
+685,15112,2024-12-11,Buyer Remorse
+686,27012,2026-03-30,Not as Described
+687,24701,2026-05-29,Defective Item
+688,3456,2025-12-21,Not as Described
+689,13855,2025-06-05,Buyer Remorse
+690,10180,2025-05-31,Not as Described
+691,33856,2025-05-16,Buyer Remorse
+692,35013,2025-08-27,Late Delivery
+693,34528,2025-12-20,Not as Described
+694,17712,2026-10-24,Late Delivery
+695,18421,2026-03-09,Defective Item
+696,21400,2025-07-05,Late Delivery
+697,31759,2024-11-11,Defective Item
+698,13988,2025-01-19,Not as Described
+699,7112,2026-04-01,Defective Item
+700,213,2025-04-01,Defective Item
+701,14883,2026-03-04,Wrong Size
+702,20835,2025-12-24,Defective Item
+703,27009,2025-01-06,Wrong Size
+704,9104,2025-05-07,Defective Item
+705,14476,2025-11-27,Wrong Size
+706,12115,2025-08-10,Not as Described
+707,4914,2026-05-08,Not as Described
+708,3630,2026-10-03,Defective Item
+709,27499,2026-04-08,Late Delivery
+710,24309,2025-06-18,Defective Item
+711,13827,2026-08-23,Late Delivery
+712,21235,2025-01-22,Wrong Size
+713,5052,2025-12-30,Defective Item
+714,8438,2026-10-30,Not as Described
+715,11859,2025-06-26,Not as Described
+716,30891,2025-03-16,Buyer Remorse
+717,18299,2026-02-20,Wrong Size
+718,4837,2025-04-23,Buyer Remorse
+719,33963,2025-03-03,Wrong Size
+720,2704,2025-09-07,Wrong Size
+721,744,2026-05-27,Wrong Size
+722,24450,2025-06-04,Wrong Size
+723,28130,2025-07-08,Wrong Size
+724,23360,2025-10-17,Buyer Remorse
+725,10877,2024-12-04,Late Delivery
+726,26310,2024-12-20,Buyer Remorse
+727,29985,2025-10-30,Wrong Size
+728,7908,2026-08-30,Buyer Remorse
+729,20946,2026-07-21,Not as Described
+730,17023,2025-10-13,Defective Item
+731,7273,2025-05-11,Wrong Size
+732,24820,2025-04-25,Buyer Remorse
+733,25256,2026-08-14,Defective Item
+734,17691,2026-09-06,Defective Item
+735,26395,2025-11-12,Wrong Size
+736,28880,2026-03-27,Defective Item
+737,25990,2024-11-28,Wrong Size
+738,24269,2024-12-20,Not as Described
+739,14741,2024-12-05,Buyer Remorse
+740,6863,2025-09-22,Wrong Size
+741,18140,2025-08-06,Wrong Size
+742,16085,2025-03-28,Buyer Remorse
+743,1985,2025-09-06,Defective Item
+744,10248,2024-12-03,Buyer Remorse
+745,26342,2025-07-25,Defective Item
+746,10242,2025-06-15,Late Delivery
+747,36260,2026-07-05,Not as Described
+748,26643,2026-05-15,Late Delivery
+749,25943,2026-08-02,Wrong Size
+750,28871,2026-01-11,Defective Item
+751,11788,2025-11-11,Late Delivery
+752,23967,2025-01-02,Not as Described
+753,33629,2025-03-21,Wrong Size
+754,7269,2025-11-01,Not as Described
+755,11487,2026-01-21,Late Delivery
+756,10709,2025-04-28,Buyer Remorse
+757,2525,2024-12-30,Buyer Remorse
+758,31915,2026-03-01,Late Delivery
+759,26212,2024-11-28,Wrong Size
+760,20514,2025-12-18,Defective Item
+761,13463,2025-02-28,Wrong Size
+762,13008,2026-09-12,Buyer Remorse
+763,25680,2025-08-27,Late Delivery
+764,33607,2025-03-07,Late Delivery
+765,15231,2026-03-16,Defective Item
+766,30573,2026-03-17,Late Delivery
+767,809,2025-11-07,Late Delivery
+768,22528,2025-10-28,Defective Item
+769,16565,2025-06-30,Buyer Remorse
+770,35528,2025-09-19,Buyer Remorse
+771,17377,2026-08-20,Buyer Remorse
+772,34464,2026-06-23,Not as Described
+773,14672,2026-10-17,Buyer Remorse
+774,26301,2026-05-17,Wrong Size
+775,5110,2026-02-06,Wrong Size
+776,35115,2026-02-12,Buyer Remorse
+777,6761,2026-04-29,Wrong Size
+778,740,2026-02-19,Defective Item
+779,6226,2026-06-04,Late Delivery
+780,24855,2024-10-30,Buyer Remorse
+781,28088,2025-10-02,Buyer Remorse
+782,16870,2026-04-22,Wrong Size
+783,17000,2024-11-16,Defective Item
+784,6591,2025-06-20,Defective Item
+785,4742,2025-01-27,Defective Item
+786,13878,2025-11-26,Wrong Size
+787,9690,2025-10-01,Not as Described
+788,13133,2026-02-20,Not as Described
+789,31038,2026-07-29,Wrong Size
+790,3745,2025-08-27,Wrong Size
+791,30196,2024-11-07,Late Delivery
+792,15436,2026-02-16,Buyer Remorse
+793,280,2025-08-05,Late Delivery
+794,2251,2025-08-24,Not as Described
+795,18784,2025-09-07,Late Delivery
+796,23547,2026-08-31,Wrong Size
+797,25997,2026-08-14,Buyer Remorse
+798,407,2025-01-15,Buyer Remorse
+799,30880,2025-01-03,Defective Item
+800,33416,2026-07-28,Buyer Remorse
+801,2671,2026-05-25,Defective Item
+802,16648,2026-08-28,Buyer Remorse
+803,12026,2026-01-04,Not as Described
+804,26640,2025-03-24,Buyer Remorse
+805,34951,2025-12-31,Buyer Remorse
+806,32743,2026-01-21,Wrong Size
+807,28281,2025-02-07,Not as Described
+808,29508,2026-08-31,Not as Described
+809,35057,2025-01-05,Wrong Size
+810,11048,2026-05-01,Not as Described
+811,33465,2024-11-12,Defective Item
+812,6253,2025-11-07,Late Delivery
+813,1809,2025-06-30,Buyer Remorse
+814,15574,2025-11-24,Defective Item
+815,35702,2025-09-29,Late Delivery
+816,6399,2025-06-23,Late Delivery
+817,13649,2025-04-18,Not as Described
+818,17793,2025-08-06,Defective Item
+819,25817,2026-01-09,Wrong Size
+820,22510,2026-07-20,Buyer Remorse
+821,1956,2025-05-02,Defective Item
+822,20674,2024-11-16,Defective Item
+823,30700,2026-01-27,Buyer Remorse
+824,16238,2025-11-16,Not as Described
+825,11428,2025-07-06,Wrong Size
+826,20049,2025-04-21,Wrong Size
+827,23582,2025-04-01,Defective Item
+828,20367,2026-04-19,Buyer Remorse
+829,28609,2025-08-19,Wrong Size
+830,35114,2025-04-01,Wrong Size
+831,35638,2025-01-25,Not as Described
+832,18445,2025-05-21,Buyer Remorse
+833,30415,2026-01-22,Not as Described
+834,25524,2026-09-01,Buyer Remorse
+835,23062,2025-02-11,Buyer Remorse
+836,23203,2025-11-23,Buyer Remorse
+837,19356,2026-03-02,Late Delivery
+838,19186,2026-02-01,Late Delivery
+839,15717,2025-09-11,Wrong Size
+840,681,2026-01-22,Wrong Size
+841,32689,2025-01-11,Late Delivery
+842,30947,2025-12-04,Not as Described
+843,35295,2026-04-15,Not as Described
+844,29105,2025-09-09,Buyer Remorse
+845,24550,2025-01-31,Wrong Size
+846,26843,2026-03-26,Not as Described
+847,25551,2025-11-02,Late Delivery
+848,27469,2025-07-05,Not as Described
+849,17387,2026-03-16,Buyer Remorse
+850,24082,2025-09-01,Wrong Size
+851,34799,2025-12-27,Wrong Size
+852,21790,2025-09-30,Late Delivery
+853,32201,2025-04-17,Late Delivery
+854,9889,2025-05-12,Not as Described
+855,2607,2026-09-30,Not as Described
+856,17930,2025-07-03,Late Delivery
+857,14771,2026-03-26,Defective Item
+858,4305,2025-05-31,Not as Described
+859,25678,2026-07-12,Defective Item
+860,16568,2026-02-01,Defective Item
+861,18478,2025-08-22,Defective Item
+862,11268,2026-10-27,Not as Described
+863,23058,2025-06-04,Not as Described
+864,12131,2026-04-01,Wrong Size
+865,26026,2026-04-14,Buyer Remorse
+866,1603,2025-03-10,Not as Described
+867,28245,2025-03-13,Late Delivery
+868,25769,2024-11-21,Wrong Size
+869,21793,2025-09-18,Wrong Size
+870,25335,2026-07-20,Not as Described
+871,5831,2026-08-03,Defective Item
+872,4523,2026-06-18,Late Delivery
+873,14377,2026-01-14,Defective Item
+874,3445,2026-09-21,Late Delivery
+875,32593,2026-06-12,Wrong Size
+876,30515,2026-01-18,Defective Item
+877,21727,2026-03-30,Late Delivery
+878,32821,2025-02-25,Wrong Size
+879,29489,2025-07-19,Late Delivery
+880,9708,2026-06-22,Wrong Size
+881,35147,2025-07-23,Defective Item
+882,21816,2025-12-14,Buyer Remorse
+883,25186,2026-06-23,Buyer Remorse
+884,23177,2025-05-04,Wrong Size
+885,23402,2024-12-11,Late Delivery
+886,24051,2024-11-07,Defective Item
+887,13092,2025-04-01,Defective Item
+888,25022,2026-07-13,Not as Described
+889,9412,2026-08-08,Late Delivery
+890,34048,2025-07-28,Defective Item
+891,35139,2025-12-19,Late Delivery
+892,12843,2024-12-14,Not as Described
+893,12446,2026-03-29,Not as Described
+894,33581,2026-04-28,Wrong Size
+895,23785,2026-05-02,Buyer Remorse
+896,534,2026-01-01,Wrong Size
+897,16996,2026-06-25,Late Delivery
+898,14671,2025-10-22,Wrong Size
+899,32742,2025-08-12,Wrong Size
+900,34995,2025-09-10,Defective Item
+901,29331,2026-02-28,Defective Item
+902,25420,2025-05-08,Wrong Size
+903,14327,2025-05-15,Defective Item
+904,13933,2026-05-31,Wrong Size
+905,18375,2025-06-12,Late Delivery
+906,11793,2026-02-21,Not as Described
+907,27771,2025-01-13,Buyer Remorse
+908,26190,2026-05-11,Not as Described
+909,17598,2026-08-26,Wrong Size
+910,10632,2026-08-30,Wrong Size
+911,10847,2024-11-29,Not as Described
+912,10864,2025-11-27,Late Delivery
+913,16608,2025-12-06,Not as Described
+914,12927,2025-07-27,Buyer Remorse
+915,27659,2026-08-15,Defective Item
+916,15114,2025-04-28,Buyer Remorse
+917,14292,2025-06-12,Buyer Remorse
+918,13711,2026-01-06,Not as Described
+919,9158,2026-10-10,Wrong Size
+920,2701,2025-12-28,Late Delivery
+921,2135,2025-05-04,Late Delivery
+922,7939,2026-10-15,Late Delivery
+923,517,2025-01-04,Late Delivery
+924,33472,2026-09-24,Not as Described
+925,3969,2026-02-14,Buyer Remorse
+926,28391,2026-08-08,Wrong Size
+927,638,2026-06-07,Defective Item
+928,15857,2026-10-01,Defective Item
+929,8232,2025-03-23,Buyer Remorse
+930,34160,2025-10-07,Buyer Remorse
+931,11937,2026-05-15,Late Delivery
+932,10512,2025-03-06,Wrong Size
+933,16623,2026-10-26,Defective Item
+934,30853,2025-10-16,Defective Item
+935,22359,2026-08-17,Not as Described
+936,6045,2026-10-30,Wrong Size
+937,36177,2026-07-21,Defective Item
+938,13954,2026-10-05,Buyer Remorse
+939,35366,2025-10-08,Buyer Remorse
+940,29826,2025-11-27,Wrong Size
+941,29132,2026-06-30,Wrong Size
+942,3373,2025-04-10,Wrong Size
+943,31938,2025-06-11,Late Delivery
+944,13485,2024-12-05,Defective Item
+945,35882,2025-11-19,Late Delivery
+946,16366,2026-01-25,Late Delivery
+947,2137,2026-08-09,Wrong Size
+948,27439,2026-04-15,Not as Described
+949,9709,2026-02-28,Late Delivery
+950,13702,2026-07-21,Late Delivery
+951,23224,2025-03-24,Late Delivery
+952,17746,2025-02-13,Defective Item
+953,29922,2026-10-29,Late Delivery
+954,26796,2025-11-23,Wrong Size
+955,2588,2024-12-30,Not as Described
+956,34211,2026-10-29,Wrong Size
+957,23549,2026-01-05,Defective Item
+958,29049,2025-01-07,Wrong Size
+959,13444,2025-08-25,Late Delivery
+960,17494,2026-03-28,Not as Described
+961,17014,2025-11-02,Late Delivery
+962,8713,2025-01-04,Late Delivery
+963,35673,2026-09-27,Buyer Remorse
+964,23430,2025-11-15,Buyer Remorse
+965,27787,2025-10-16,Not as Described
+966,12899,2026-03-30,Defective Item
+967,33837,2025-01-10,Buyer Remorse
+968,11702,2025-01-30,Late Delivery
+969,13458,2024-11-04,Wrong Size
+970,29353,2025-04-23,Wrong Size
+971,26627,2025-06-07,Wrong Size
+972,14815,2024-12-02,Not as Described
+973,13239,2025-03-14,Wrong Size
+974,35545,2024-12-10,Wrong Size
+975,30123,2026-10-11,Buyer Remorse
+976,28596,2025-11-15,Late Delivery
+977,10422,2026-09-07,Buyer Remorse
+978,24018,2025-04-17,Not as Described
+979,30942,2025-10-04,Buyer Remorse
+980,33340,2024-12-20,Buyer Remorse
+981,32033,2025-11-20,Late Delivery
+982,23090,2025-06-28,Buyer Remorse
+983,7756,2025-07-05,Buyer Remorse
+984,34857,2025-10-18,Defective Item
+985,11983,2026-06-09,Late Delivery
+986,20897,2025-05-21,Late Delivery
+987,27866,2025-01-19,Late Delivery
+988,29073,2025-11-01,Buyer Remorse
+989,17541,2026-02-28,Buyer Remorse
+990,6019,2026-02-18,Not as Described
+991,10234,2024-12-20,Late Delivery
+992,30604,2025-11-23,Defective Item
+993,10882,2025-05-29,Buyer Remorse
+994,13253,2026-03-10,Late Delivery
+995,8533,2025-12-14,Not as Described
+996,16130,2024-11-03,Late Delivery
+997,21732,2024-11-12,Buyer Remorse
+998,21458,2026-07-07,Late Delivery
+999,7389,2024-12-17,Not as Described
+1000,11741,2024-11-20,Defective Item
+1001,33689,2026-06-05,Not as Described
+1002,6034,2024-11-10,Buyer Remorse
+1003,6876,2026-09-10,Wrong Size
+1004,24539,2026-08-02,Defective Item
+1005,24480,2025-01-08,Defective Item
+1006,11312,2025-04-24,Buyer Remorse
+1007,27770,2025-05-03,Buyer Remorse
+1008,31338,2024-12-14,Wrong Size
+1009,29106,2026-08-08,Defective Item
+1010,1179,2026-08-12,Late Delivery
+1011,21200,2026-04-16,Buyer Remorse
+1012,4036,2026-03-09,Defective Item
+1013,20238,2025-03-09,Defective Item
+1014,28637,2026-05-13,Late Delivery
+1015,12660,2025-01-29,Late Delivery
+1016,16042,2025-06-01,Late Delivery
+1017,27083,2026-08-01,Not as Described
+1018,32582,2025-12-29,Buyer Remorse
+1019,3059,2026-01-30,Buyer Remorse
+1020,15774,2024-11-13,Late Delivery
+1021,468,2025-05-16,Defective Item
+1022,12279,2026-10-11,Wrong Size
+1023,10033,2024-11-05,Not as Described
+1024,28725,2024-12-30,Buyer Remorse
+1025,26079,2025-01-10,Defective Item
+1026,21992,2026-05-17,Late Delivery
+1027,28535,2026-07-29,Late Delivery
+1028,21598,2026-09-26,Wrong Size
+1029,13137,2025-05-10,Late Delivery
+1030,7195,2026-08-09,Wrong Size
+1031,34007,2026-07-03,Late Delivery
+1032,8014,2026-06-20,Buyer Remorse
+1033,32038,2026-03-13,Defective Item
+1034,30269,2026-01-16,Buyer Remorse
+1035,2915,2025-03-04,Late Delivery
+1036,6958,2025-01-22,Buyer Remorse
+1037,26559,2025-08-01,Buyer Remorse
+1038,27342,2026-03-27,Late Delivery
+1039,18729,2026-03-08,Not as Described
+1040,28747,2026-01-06,Defective Item
+1041,11037,2026-09-01,Defective Item
+1042,27601,2026-05-17,Not as Described
+1043,53,2026-09-13,Late Delivery
+1044,2400,2024-12-29,Buyer Remorse
+1045,35563,2026-01-23,Wrong Size
+1046,3147,2025-02-23,Defective Item
+1047,26557,2025-10-27,Late Delivery
+1048,7210,2026-06-18,Defective Item
+1049,2742,2025-11-16,Late Delivery
+1050,22330,2026-10-29,Buyer Remorse
+1051,24293,2025-02-21,Wrong Size
+1052,3683,2025-05-25,Late Delivery
+1053,3634,2025-06-11,Buyer Remorse
+1054,3649,2025-05-12,Defective Item
+1055,15241,2026-03-15,Buyer Remorse
+1056,28425,2025-10-13,Not as Described
+1057,17451,2026-05-05,Defective Item
+1058,4368,2025-09-21,Not as Described
+1059,7692,2025-06-11,Late Delivery
+1060,25038,2025-07-07,Wrong Size
+1061,25282,2025-08-19,Defective Item
+1062,14187,2024-12-27,Wrong Size
+1063,400,2025-12-06,Wrong Size
+1064,2211,2026-05-21,Wrong Size
+1065,27330,2026-10-14,Defective Item
+1066,32803,2026-05-29,Not as Described
+1067,1066,2026-09-14,Late Delivery
+1068,4902,2026-10-14,Buyer Remorse
+1069,32589,2025-06-27,Wrong Size
+1070,31400,2025-09-26,Buyer Remorse
+1071,17751,2026-01-08,Wrong Size
+1072,33841,2026-01-18,Not as Described
+1073,16527,2026-09-20,Wrong Size
+1074,3689,2025-01-14,Late Delivery
+1075,19779,2025-08-15,Late Delivery
+1076,5023,2026-10-02,Defective Item
+1077,32949,2026-04-17,Defective Item
+1078,8833,2026-03-07,Buyer Remorse
+1079,23205,2025-12-27,Not as Described
+1080,1538,2026-05-31,Late Delivery
+1081,3581,2026-08-04,Defective Item
+1082,17983,2025-03-31,Wrong Size
+1083,11163,2025-04-08,Not as Described
+1084,2774,2026-10-08,Late Delivery
+1085,25917,2025-09-03,Buyer Remorse
+1086,19980,2025-07-11,Wrong Size
+1087,4374,2026-02-24,Buyer Remorse
+1088,15876,2026-06-12,Buyer Remorse
+1089,9014,2025-10-09,Late Delivery
+1090,2457,2025-06-27,Late Delivery
+1091,26686,2025-11-12,Late Delivery
+1092,6966,2026-09-16,Late Delivery
+1093,17063,2024-12-03,Late Delivery
+1094,5266,2026-10-22,Late Delivery
+1095,16924,2026-03-02,Not as Described
+1096,174,2026-01-31,Wrong Size
+1097,25072,2025-01-18,Not as Described
+1098,24512,2025-06-13,Wrong Size
+1099,34221,2025-12-04,Late Delivery
+1100,29155,2025-10-23,Wrong Size
+1101,22081,2026-05-29,Buyer Remorse
+1102,4501,2026-04-17,Wrong Size
+1103,2945,2025-01-30,Defective Item
+1104,5956,2026-02-10,Late Delivery
+1105,35647,2025-03-22,Buyer Remorse
+1106,24259,2026-04-24,Wrong Size
+1107,14489,2026-04-05,Late Delivery
+1108,3480,2026-02-15,Defective Item
+1109,11171,2026-06-07,Late Delivery
+1110,21954,2024-11-10,Wrong Size
+1111,7411,2026-09-02,Not as Described
+1112,28884,2025-11-30,Buyer Remorse
+1113,18820,2026-07-04,Not as Described
+1114,17270,2025-04-22,Defective Item
+1115,21683,2025-04-21,Buyer Remorse
+1116,21410,2025-12-09,Wrong Size
+1117,11456,2026-09-19,Not as Described
+1118,14270,2025-02-08,Late Delivery
+1119,33740,2026-08-15,Defective Item
+1120,11340,2026-06-01,Late Delivery
+1121,15900,2025-08-17,Defective Item
+1122,5863,2025-07-26,Buyer Remorse
+1123,26716,2025-09-22,Buyer Remorse
+1124,18177,2025-02-01,Defective Item
+1125,28587,2026-01-13,Wrong Size
+1126,29925,2025-10-30,Buyer Remorse
+1127,33407,2025-12-19,Defective Item
+1128,15768,2026-03-07,Defective Item
+1129,9561,2026-07-15,Defective Item
+1130,33922,2026-06-26,Late Delivery
+1131,16836,2026-01-24,Wrong Size
+1132,22383,2025-08-20,Wrong Size
+1133,33522,2025-12-26,Buyer Remorse
+1134,8005,2026-09-18,Defective Item
+1135,14024,2024-12-23,Wrong Size
+1136,34959,2025-02-12,Not as Described
+1137,4476,2025-08-18,Wrong Size
+1138,22885,2025-09-08,Wrong Size
+1139,32415,2025-09-14,Buyer Remorse
+1140,34862,2026-04-13,Defective Item
+1141,31208,2026-02-21,Late Delivery
+1142,12586,2026-01-23,Wrong Size
+1143,8623,2025-01-29,Wrong Size
+1144,24209,2025-08-25,Buyer Remorse
+1145,15261,2026-05-19,Wrong Size
+1146,3771,2026-08-17,Not as Described
+1147,2898,2026-01-18,Not as Described
+1148,22165,2026-08-16,Not as Described
+1149,14792,2026-01-13,Late Delivery
+1150,5708,2026-09-07,Wrong Size
+1151,2144,2025-03-01,Wrong Size
+1152,9330,2026-05-19,Not as Described
+1153,7683,2026-05-09,Not as Described
+1154,9981,2025-10-20,Wrong Size
+1155,10360,2026-09-05,Not as Described
+1156,22396,2025-10-16,Buyer Remorse
+1157,15318,2026-04-06,Not as Described
+1158,31642,2024-11-19,Late Delivery
+1159,10127,2026-04-07,Late Delivery
+1160,15495,2026-08-12,Late Delivery
+1161,9279,2025-11-24,Defective Item
+1162,33304,2026-07-22,Late Delivery
+1163,2267,2026-03-06,Not as Described
+1164,22673,2025-09-24,Not as Described
+1165,14941,2026-04-23,Late Delivery
+1166,25546,2026-07-01,Wrong Size
+1167,28938,2025-08-18,Wrong Size
+1168,21922,2025-08-01,Defective Item
+1169,32105,2025-10-19,Defective Item
+1170,29943,2026-10-14,Not as Described
+1171,28652,2026-10-03,Late Delivery
+1172,27432,2026-07-06,Buyer Remorse
+1173,10613,2025-06-17,Buyer Remorse
+1174,19394,2026-10-19,Wrong Size
+1175,21625,2025-12-22,Buyer Remorse
+1176,10289,2026-05-22,Defective Item
+1177,9212,2025-09-24,Defective Item
+1178,36063,2025-08-14,Late Delivery
+1179,31490,2026-08-13,Defective Item
+1180,13263,2026-02-05,Defective Item
+1181,33197,2025-10-14,Not as Described
+1182,14175,2025-10-08,Buyer Remorse
+1183,6097,2026-03-29,Wrong Size
+1184,16611,2025-07-05,Not as Described
+1185,29221,2026-02-08,Defective Item
+1186,425,2026-10-05,Buyer Remorse
+1187,5488,2026-10-06,Defective Item
+1188,2278,2025-10-25,Defective Item
+1189,15672,2025-11-14,Wrong Size
+1190,8545,2025-10-01,Buyer Remorse
+1191,20926,2025-11-08,Defective Item
+1192,30349,2025-04-14,Defective Item
+1193,7615,2026-04-20,Buyer Remorse
+1194,29090,2026-03-30,Defective Item
+1195,35809,2026-07-07,Buyer Remorse
+1196,3994,2026-07-17,Late Delivery
+1197,4797,2026-02-28,Late Delivery
+1198,4214,2025-11-27,Buyer Remorse
+1199,14770,2024-11-11,Late Delivery
+1200,14649,2024-11-29,Not as Described
+1201,21614,2026-09-30,Defective Item
+1202,8898,2025-10-24,Buyer Remorse
+1203,15164,2025-07-04,Buyer Remorse
+1204,32778,2024-11-25,Defective Item
+1205,29351,2026-05-21,Wrong Size
+1206,16285,2026-07-25,Defective Item
+1207,1128,2025-09-14,Not as Described
+1208,22910,2025-12-11,Late Delivery
+1209,5124,2025-02-10,Not as Described
+1210,29104,2025-03-28,Late Delivery
+1211,24422,2026-03-23,Wrong Size
+1212,12892,2026-05-20,Defective Item
+1213,25352,2025-05-10,Late Delivery
+1214,28085,2026-06-28,Buyer Remorse
+1215,19506,2025-11-02,Wrong Size
+1216,15767,2025-04-30,Late Delivery
+1217,16877,2026-08-11,Late Delivery
+1218,18696,2026-09-29,Defective Item
+1219,27840,2025-04-21,Buyer Remorse
+1220,21270,2026-01-12,Not as Described
+1221,5354,2025-05-03,Wrong Size
+1222,1932,2025-06-03,Buyer Remorse
+1223,9884,2025-10-28,Wrong Size
+1224,31800,2026-06-21,Wrong Size
+1225,17630,2025-06-06,Not as Described
+1226,219,2026-04-19,Late Delivery
+1227,34638,2025-01-10,Defective Item
+1228,33067,2026-10-19,Buyer Remorse
+1229,31919,2026-03-29,Not as Described
+1230,25826,2026-05-11,Defective Item
+1231,10483,2025-03-15,Defective Item

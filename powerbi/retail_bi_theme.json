@@ -1,0 +1,96 @@
+{
+  "name": "Retail Executive BI Theme",
+  "dataColors": [
+    "#1E40AF",
+    "#059669",
+    "#0284C7",
+    "#D97706",
+    "#DC2626",
+    "#7C3AED",
+    "#475569",
+    "#0D9488"
+  ],
+  "background": "#F8FAFC",
+  "foreground": "#0F172A",
+  "tableAccent": "#1E40AF",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "show": false, "transparency": 100 }],
+        "border": [{ "show": false }]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "color": { "solid": { "color": "#0F172A" } },
+            "fontSize": 20,
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ],
+        "categoryLabels": [{ "show": false }],
+        "background": [{ "show": false, "transparency": 100 }]
+      }
+    },
+    "lineChart": {
+      "*": {
+        "legend": [{ "show": false }],
+        "categoryAxis": [
+          {
+            "labelColor": { "solid": { "color": "#64748B" } },
+            "fontSize": 9
+          }
+        ],
+        "valueAxis": [
+          {
+            "labelColor": { "solid": { "color": "#64748B" } },
+            "fontSize": 9
+          }
+        ],
+        "dataPoint": [
+          {
+            "showAllDataPoints": true
+          }
+        ],
+        "background": [{ "show": false, "transparency": 100 }]
+      }
+    },
+    "barChart": {
+      "*": {
+        "labels": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#0F172A" } },
+            "fontSize": 9
+          }
+        ],
+        "categoryAxis": [
+          {
+            "labelColor": { "solid": { "color": "#334155" } },
+            "fontSize": 9
+          }
+        ],
+        "background": [{ "show": false, "transparency": 100 }]
+      }
+    },
+    "columnChart": {
+      "*": {
+        "labels": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#0F172A" } },
+            "fontSize": 9
+          }
+        ],
+        "categoryAxis": [
+          {
+            "labelColor": { "solid": { "color": "#334155" } },
+            "fontSize": 9
+          }
+        ],
+        "background": [{ "show": false, "transparency": 100 }]
+      }
+    }
+  }
+}
