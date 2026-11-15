@@ -369,6 +369,6 @@ Capstone Project/
 ## 👨‍💻 Author & Contact
 
 **Rudhiyansh Sandanshiv**  
-- **Role:** Senior Data Analyst | Business Intelligence Specialist  
+- **Role:** Data Analyst
 - **Core Competencies:** SQL (MySQL, PostgreSQL), Python (Pandas, NumPy, Seaborn), Power BI (DAX, Star Schema Modeling), Microsoft Excel (Advanced Modeling, Pivot Slicers).  
 - **Project Focus:** Transforming messy operational data into scalable, high-impact business intelligence systems.
