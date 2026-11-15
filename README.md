@@ -172,7 +172,7 @@ Through SQL analytics, Python cohort modeling, and Power BI diagnostics, the fol
 - **RFM Customer Segmentation:** Calculated Recency (inactivity days), Frequency (order counts), and Monetary (lifetime spend post-discounts). Applied statistical quintile binning (`pd.qcut`) to classify accounts into 5 actionable tiers.
 
 <p align="center">
-  <img src="docs/images/python_rfm_segments.png" alt="RFM Customer Segmentation Breakdown" width="95%">
+  <img src="images/python_rfm_segments.png" alt="RFM Customer Segmentation Breakdown" width="95%">
 </p>
 
 > **Key Analytical Takeaway:** The Pareto principle holds true across the enterprise — **Champions** (1,000 accounts driving ₹5.37 Cr) and **Loyal Customers** (1,198 accounts driving ₹5.96 Cr) collectively account for **75.1% of total enterprise revenue**.
@@ -180,7 +180,7 @@ Through SQL analytics, Python cohort modeling, and Power BI diagnostics, the fol
 - **12-Month Customer Cohort Retention Analysis:** Assigned customers to their initial acquisition cohort month and engineered a dynamic monthly lifecycle index (Month 0 to Month 11) to track re-engagement decay curves over time.
 
 <p align="center">
-  <img src="docs/images/python_cohort_retention_heatmap.png" alt="12-Month Customer Cohort Retention Heatmap" width="95%">
+  <img src="images/python_cohort_retention_heatmap.png" alt="12-Month Customer Cohort Retention Heatmap" width="95%">
 </p>
 
 > **Retention Decay Insight:** Customer re-order engagement stabilizes between 18% to 24% after Month 3, pinpointing Month 1-2 as the critical window for onboarding email drips and loyalty point campaigns to prevent early churn.
@@ -198,7 +198,7 @@ The enterprise analytical dashboard is designed in **1920 × 1080 Full HD resolu
 High-level C-suite cockpit delivering enterprise revenue health, multi-year chronological growth trajectories, and regional sales distribution.
 
 <p align="center">
-  <img src="docs/images/powerbi_page1_executive_overview.png" alt="Power BI Page 1 - Executive Overview" width="95%">
+  <img src="images/powerbi_page1_executive_overview.png" alt="Power BI Page 1 - Executive Overview" width="95%">
 </p>
 
 - **Top Floating KPI Cards:** Total Net Revenue (₹150.88M), Total Delivered Orders (11K), Active Buying Customers (5K), Gross Profit Margin (38.09%), Enterprise Return Rate (6.00%).
@@ -213,7 +213,7 @@ High-level C-suite cockpit delivering enterprise revenue health, multi-year chro
 Drills into customer behavioral economics, RFM clusters, and operational churn risks.
 
 <p align="center">
-  <img src="docs/images/powerbi_page2_customer_rfm.png" alt="Power BI Page 2 - Customer & RFM Analytics" width="95%">
+  <img src="images/powerbi_page2_customer_rfm.png" alt="Power BI Page 2 - Customer & RFM Analytics" width="95%">
 </p>
 
 - **Customer KPI Banner:** Active Customers (5K), Champions VIP Base (1K), High-Value At-Risk Accounts (310), Vulnerable Revenue at Churn Risk (₹10.98M).
@@ -227,7 +227,7 @@ Drills into customer behavioral economics, RFM clusters, and operational churn r
 Operational deep-dive for supply chain and merchandising teams to audit SKU margins and root causes of reverse logistics.
 
 <p align="center">
-  <img src="docs/images/powerbi_page3_product_returns.png" alt="Power BI Page 3 - Product Profitability & Returns Diagnostic" width="95%">
+  <img src="images/powerbi_page3_product_returns.png" alt="Power BI Page 3 - Product Profitability & Returns Diagnostic" width="95%">
 </p>
 
 - **Product KPI Banner:** Active Catalog SKUs (15), Cumulative Gross Profit (₹57.46M), Average Gross Margin % (38.09%), Total Returned Units (1K / 1,231 lines).
@@ -308,6 +308,13 @@ Capstone Project/
 │   ├── Retail_BI_System.pbix               # 3-Page Executive Dashboard (Star Schema + 11 DAX Measures)
 │   ├── retail_bi_theme.json                # Custom Corporate Color Palette Theme
 │   └── 📁 backgrounds/                     # 1920x1080 Layout Wireframe Templates
+│
+├── 📁 images/                              # High-Resolution Dashboard & Analytics Screenshots
+│   ├── powerbi_page1_executive_overview.png
+│   ├── powerbi_page2_customer_rfm.png
+│   ├── powerbi_page3_product_returns.png
+│   ├── python_rfm_segments.png
+│   └── python_cohort_retention_heatmap.png
 │
 ├── 📁 data/                                # Transactional Datasets
 │   ├── 📁 raw/                             # Raw Staging CSV Files (62,679 Records)
